@@ -2,9 +2,9 @@
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=435&lines=Building+Web+%26+Mobile+Apps;Next.js+%7C+React+%7C+Flutter+%7C+Node.js;Clean+Code+%E2%80%A2+Great+UX;Turning+Ideas+Into+Production+Apps" alt="Typing SVG" /></a>
+<em>Full-stack developer crafting clean, performant web & mobile apps</em>
 
-<br/>
+<br/><br/>
 
 <a href="https://amed-berzinary.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=22c55e" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/amed-berznar-486135237"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
