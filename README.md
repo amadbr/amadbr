@@ -1,5 +1,3 @@
-<div align="center">
-
 ```javascript
 const developer = {
   name: "Amed Berzinar",
@@ -17,8 +15,6 @@ const developer = {
 <a href="https://www.linkedin.com/in/amed-berznar-486135237"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://instagram.com/amed_berzinar"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 <a href="mailto:amadbarznar123@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-
-</div>
 
 ---
 
