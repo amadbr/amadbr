@@ -62,8 +62,8 @@ I build modern, performant web & mobile applications with clean code and great u
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=amadbr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22c55e&icon_color=22c55e&text_color=c9d1d9" alt="GitHub Stats" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amadbr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22c55e&text_color=c9d1d9" alt="Top Languages" height="170" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=amadbr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22c55e&icon_color=22c55e&text_color=c9d1d9" alt="GitHub Stats" height="170" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amadbr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22c55e&text_color=c9d1d9" alt="Top Languages" height="170" />
 
 </div>
 
