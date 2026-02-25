@@ -133,13 +133,10 @@ Queue management, appointment booking, and event ticketing platform with drag-an
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=amadbr&color=22c55e&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+---
 
-<br/><br/>
+<a href="https://github.com/amadbr?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-check%20them%20out-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Repos" /></a> <a href="https://amed-berzinary.netlify.app"><img src="https://img.shields.io/badge/PORTFOLIO-visit%20site-22c55e?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" /></a>
 
-<a href="https://github.com/amadbr?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-check%20them%20out-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Repos" /></a>
-<a href="https://amed-berzinary.netlify.app"><img src="https://img.shields.io/badge/PORTFOLIO-visit%20site-22c55e?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" /></a>
+<br/>
 
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:22c55e&height=120&section=footer" width="100%" />
+<img src="https://komarev.com/ghpvc/?username=amadbr&color=22c55e&style=flat&label=Profile+Views" alt="Profile Views" />
