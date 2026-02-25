@@ -94,12 +94,88 @@
 
 ### Featured Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| **Luxury In Motion Dubai** | Premium car rental website for a Dubai-based company | Next.js, React, TypeScript, Tailwind CSS |
-| **Worker Activity Monitor** | AI-powered employee productivity tracking with eye tracking | Flutter, Dart, Python, MediaPipe, Win32 FFI |
-| **Point of Sale System** | Cross-platform POS with multi-tenant architecture & thermal printing | Flutter, Dart, SQLite, ESC/POS |
-| **TicketFlow** | Queue management & appointment booking SaaS platform | Next.js, PostgreSQL, Prisma, NextAuth.js |
+<table>
+<tr>
+<td width="50%">
+
+<h3 align="center">Luxury In Motion Dubai</h3>
+
+<p align="center">
+<a href="https://www.luxuryinmotiondubai.com"><img src="https://img.shields.io/badge/LIVE%20SITE-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live" /></a>
+</p>
+
+<p align="center">Premium car rental website for a Dubai-based luxury vehicle company with fleet showcase, brand filtering, and instant online booking.</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
+</p>
+
+</td>
+<td width="50%">
+
+<h3 align="center">Worker Activity Monitor</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/DESKTOP%20APP-0D1117?style=for-the-badge&logo=windows&logoColor=white" alt="Desktop" />
+</p>
+
+<p align="center">AI-powered employee productivity tracking with real-time eye tracking via MediaPipe, Win32 FFI integration, and PDF report generation.</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+<h3 align="center">Point of Sale System</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/DESKTOP%20APP-0D1117?style=for-the-badge&logo=windows&logoColor=white" alt="Desktop" />
+</p>
+
+<p align="center">Cross-platform POS with multi-tenant architecture, role-based access, real-time analytics, thermal printing, and barcode scanner integration.</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/ESC/POS-F05032?style=flat-square&logo=epson&logoColor=white" />
+<img src="https://img.shields.io/badge/PDF-EC1C24?style=flat-square&logo=adobeacrobatreader&logoColor=white" />
+</p>
+
+</td>
+<td width="50%">
+
+<h3 align="center">TicketFlow - Queue & Appointment SaaS</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/FULL%20STACK%20SAAS-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="SaaS" />
+</p>
+
+<p align="center">Queue management, appointment booking, and event ticketing platform with drag-and-drop homepage builder and 65+ API endpoints.</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+<img src="https://img.shields.io/badge/NextAuth-000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white" />
+</p>
+
+</td>
+</tr>
+</table>
 
 ---
 
