@@ -6,10 +6,10 @@
 
 <br/>
 
-<a href="https://amed-berzinary.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=22c55e" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/amed-berznar-486135237"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://instagram.com/amed_berzinar"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-<a href="mailto:amadbarznar123@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://amed-berzinary.netlify.app"><img src="https://img.shields.io/badge/-000?style=flat-square&logo=vercel&logoColor=22c55e&logoWidth=20" height="30" alt="Portfolio" /></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/amed-berznar-486135237"><img src="https://img.shields.io/badge/-0A66C2?style=flat-square&logo=linkedin&logoColor=white&logoWidth=20" height="30" alt="LinkedIn" /></a>&nbsp;&nbsp;
+<a href="https://instagram.com/amed_berzinar"><img src="https://img.shields.io/badge/-E4405F?style=flat-square&logo=instagram&logoColor=white&logoWidth=20" height="30" alt="Instagram" /></a>&nbsp;&nbsp;
+<a href="mailto:amadbarznar123@gmail.com"><img src="https://img.shields.io/badge/-EA4335?style=flat-square&logo=gmail&logoColor=white&logoWidth=20" height="30" alt="Email" /></a>
 
 </div>
 
