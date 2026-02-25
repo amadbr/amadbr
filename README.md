@@ -1,10 +1,12 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:22c55e&height=180&section=header&text=Amed%20Berzinar&fontSize=42&fontColor=ffffff&fontAlignY=35&fontFamily=Fredoka&desc=Full%20Stack%20Developer&descSize=18&descColor=22c55e&descAlignY=55&descFontFamily=Poppins&animation=fadeIn" width="100%" />
-
 <div align="center">
 
-<em>Full-stack developer crafting clean, performant web & mobile apps</em>
+# Amed Berzinar
 
-<br/><br/>
+**Full Stack Developer**
+
+*Crafting clean, performant web & mobile apps*
+
+<br/>
 
 <a href="https://amed-berzinary.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=22c55e" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/amed-berznar-486135237"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
