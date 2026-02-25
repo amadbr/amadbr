@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:22c55e&height=180&section=header&text=Amed%20Berzinar&fontSize=36&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer&descSize=16&descColor=22c55e&descAlignY=55&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:22c55e&height=180&section=header&text=Amed%20Berzinar&fontSize=42&fontColor=ffffff&fontAlignY=35&fontFamily=Fredoka&desc=Full%20Stack%20Developer&descSize=18&descColor=22c55e&descAlignY=55&descFontFamily=Poppins&animation=fadeIn" width="100%" />
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Building+Web+%26+Mobile+Apps;Next.js+%7C+React+%7C+Flutter+%7C+Node.js;Clean+Code+%E2%80%A2+Great+UX+%E2%80%A2+High+Performance;Turning+Ideas+Into+Production+Apps" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Building+Web+%26+Mobile+Apps;Next.js+%7C+React+%7C+Flutter+%7C+Node.js;Clean+Code+%E2%80%A2+Great+UX+%E2%80%A2+High+Performance;Turning+Ideas+Into+Production+Apps" alt="Typing SVG" /></a>
 
 <br/>
 
