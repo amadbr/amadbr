@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Building+Web+%26+Mobile+Apps;Next.js+%7C+React+%7C+Flutter+%7C+Node.js;Clean+Code+%E2%80%A2+Great+UX+%E2%80%A2+High+Performance;Turning+Ideas+Into+Production+Apps" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=435&lines=Building+Web+%26+Mobile+Apps;Next.js+%7C+React+%7C+Flutter+%7C+Node.js;Clean+Code+%E2%80%A2+Great+UX;Turning+Ideas+Into+Production+Apps" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -15,20 +15,25 @@
 
 ---
 
+<div align="center">
+
 ### About Me
 
-- Building full-stack web apps with **Next.js**, **React**, **Node.js** & **TypeScript**
-- Developing cross-platform desktop & mobile apps with **Flutter** & **Dart**
-- Working with databases like **PostgreSQL**, **MongoDB**, **SQLite** & **Firebase**
-- Passionate about clean architecture, performance optimization & great UX
+</div>
+
+> Building full-stack web apps with **Next.js**, **React**, **Node.js** & **TypeScript**
+>
+> Developing cross-platform desktop & mobile apps with **Flutter** & **Dart**
+>
+> Working with databases like **PostgreSQL**, **MongoDB**, **SQLite** & **Firebase**
+>
+> Passionate about clean architecture, performance optimization & great UX
 
 ---
 
-### Tech Stack
+<div align="center">
 
-<table>
-<tr>
-<td valign="top" width="25%">
+### Tech Stack
 
 **Frontend**
 
@@ -38,16 +43,10 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
 <a href="https://tailwindcss.com"><img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" /></a>
 
-</td>
-<td valign="top" width="25%">
-
 **Mobile & Desktop**
 
 <a href="https://flutter.dev"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" /></a>
 <a href="https://dart.dev"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" /></a>
-
-</td>
-<td valign="top" width="25%">
 
 **Backend & Database**
 
@@ -59,9 +58,6 @@
 <a href="https://firebase.google.com"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" /></a>
 <a href="https://www.sqlite.org"><img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" /></a>
 
-</td>
-<td valign="top" width="25%">
-
 **Tools**
 
 <a href="https://git-scm.com"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
@@ -69,130 +65,115 @@
 <a href="https://www.figma.com"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /></a>
 <a href="https://code.visualstudio.com"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" /></a>
 
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
+<div align="center">
+
 ### GitHub Stats
 
-<div align="center">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=amadbr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22c55e&icon_color=22c55e&text_color=c9d1d9" alt="GitHub Stats" width="100%" />
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=amadbr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22c55e&icon_color=22c55e&text_color=c9d1d9" alt="GitHub Stats" height="170" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amadbr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22c55e&text_color=c9d1d9" alt="Top Languages" height="170" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amadbr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22c55e&text_color=c9d1d9" alt="Top Languages" width="100%" />
 
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amadbr&theme=tokyonight&hide_border=true&background=0D1117&ring=22c55e&fire=22c55e&currStreakLabel=22c55e" alt="GitHub Streak" />
-
-<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amadbr&theme=tokyonight&hide_border=true&background=0D1117&ring=22c55e&fire=22c55e&currStreakLabel=22c55e" alt="GitHub Streak" width="100%" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amadbr/amadbr/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amadbr/amadbr/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/amadbr/amadbr/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/amadbr/amadbr/output/github-snake.svg" width="100%" />
 </picture>
 
 </div>
 
 ---
 
+<div align="center">
+
 ### Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+</div>
 
-<h3 align="center">Luxury In Motion Dubai</h3>
+<div align="center">
 
-<p align="center">
+#### Luxury In Motion Dubai
+
 <a href="https://www.luxuryinmotiondubai.com"><img src="https://img.shields.io/badge/LIVE%20SITE-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live" /></a>
-</p>
 
-<p align="center">Premium car rental website for a Dubai-based luxury vehicle company with fleet showcase, brand filtering, and instant online booking.</p>
+Premium car rental website for a Dubai-based luxury vehicle company with fleet showcase, brand filtering, and instant online booking.
 
-<p align="center">
 <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
 <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
-</p>
 
-</td>
-<td width="50%">
+</div>
 
-<h3 align="center">Worker Activity Monitor</h3>
+---
 
-<p align="center">
+<div align="center">
+
+#### Worker Activity Monitor
+
 <img src="https://img.shields.io/badge/DESKTOP%20APP-0D1117?style=for-the-badge&logo=windows&logoColor=white" alt="Desktop" />
-</p>
 
-<p align="center">AI-powered employee productivity tracking with real-time eye tracking via MediaPipe, Win32 FFI integration, and PDF report generation.</p>
+AI-powered employee productivity tracking with real-time eye tracking via MediaPipe, Win32 FFI integration, and PDF report generation.
 
-<p align="center">
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white" />
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-</p>
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+</div>
 
-<h3 align="center">Point of Sale System</h3>
+---
 
-<p align="center">
+<div align="center">
+
+#### Point of Sale System
+
 <img src="https://img.shields.io/badge/DESKTOP%20APP-0D1117?style=for-the-badge&logo=windows&logoColor=white" alt="Desktop" />
-</p>
 
-<p align="center">Cross-platform POS with multi-tenant architecture, role-based access, real-time analytics, thermal printing, and barcode scanner integration.</p>
+Cross-platform POS with multi-tenant architecture, role-based access, real-time analytics, thermal printing, and barcode scanner integration.
 
-<p align="center">
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
 <img src="https://img.shields.io/badge/ESC/POS-F05032?style=flat-square&logo=epson&logoColor=white" />
 <img src="https://img.shields.io/badge/PDF-EC1C24?style=flat-square&logo=adobeacrobatreader&logoColor=white" />
-</p>
 
-</td>
-<td width="50%">
+</div>
 
-<h3 align="center">TicketFlow - Queue & Appointment SaaS</h3>
+---
 
-<p align="center">
+<div align="center">
+
+#### TicketFlow - Queue & Appointment SaaS
+
 <img src="https://img.shields.io/badge/FULL%20STACK%20SAAS-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="SaaS" />
-</p>
 
-<p align="center">Queue management, appointment booking, and event ticketing platform with drag-and-drop homepage builder and 65+ API endpoints.</p>
+Queue management, appointment booking, and event ticketing platform with drag-and-drop homepage builder and 65+ API endpoints.
 
-<p align="center">
 <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
 <img src="https://img.shields.io/badge/NextAuth-000?style=flat-square&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white" />
-</p>
 
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=amadbr&color=22c55e&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-&nbsp;&nbsp;
+
+<br/><br/>
+
 <a href="https://github.com/amadbr?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-check%20them%20out-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Repos" /></a>
-&nbsp;&nbsp;
 <a href="https://amed-berzinary.netlify.app"><img src="https://img.shields.io/badge/PORTFOLIO-visit%20site-22c55e?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" /></a>
 
 </div>
