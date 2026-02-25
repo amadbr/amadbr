@@ -1,15 +1,15 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:22c55e&height=180&section=header&text=Amed%20Berzinar&fontSize=36&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer&descSize=16&descColor=22c55e&descAlignY=55&animation=fadeIn" width="100%" />
+
 <div align="center">
 
-# Hey, I'm Amed Berzinar
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Building+Web+%26+Mobile+Apps;Next.js+%7C+React+%7C+Flutter+%7C+Node.js;Clean+Code+%E2%80%A2+Great+UX+%E2%80%A2+High+Performance;Turning+Ideas+Into+Production+Apps" alt="Typing SVG" /></a>
 
-### Full Stack Developer
+<br/>
 
-I build modern, performant web & mobile applications with clean code and great user experiences.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-amed--berzinary.netlify.app-000?style=for-the-badge&logo=netlify&logoColor=white)](https://amed-berzinary.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amed%20Berzinar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amed-berznar-486135237)
-[![Instagram](https://img.shields.io/badge/Instagram-amed__berzinar-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/amed_berzinar)
-[![Email](https://img.shields.io/badge/Email-amadbarznar123@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amadbarznar123@gmail.com)
+<a href="https://amed-berzinary.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=22c55e" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/amed-berznar-486135237"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://instagram.com/amed_berzinar"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="mailto:amadbarznar123@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
 
@@ -91,3 +91,5 @@ I build modern, performant web & mobile applications with clean code and great u
 <img src="https://komarev.com/ghpvc/?username=amadbr&color=22c55e&style=flat-square&label=Profile+Views" alt="Profile Views" />
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:22c55e&height=120&section=footer" width="100%" />
