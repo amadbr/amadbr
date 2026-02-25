@@ -84,13 +84,9 @@
 
 ---
 
-<div align="center">
-
 ### Featured Projects
 
-</div>
-
-<div align="center">
+---
 
 #### Luxury In Motion Dubai
 
@@ -104,11 +100,7 @@ Premium car rental website for a Dubai-based luxury vehicle company with fleet s
 <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
 <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
 
-</div>
-
 ---
-
-<div align="center">
 
 #### Worker Activity Monitor
 
@@ -122,11 +114,7 @@ AI-powered employee productivity tracking with real-time eye tracking via MediaP
 <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white" />
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
 
-</div>
-
 ---
-
-<div align="center">
 
 #### Point of Sale System
 
@@ -140,11 +128,7 @@ Cross-platform POS with multi-tenant architecture, role-based access, real-time 
 <img src="https://img.shields.io/badge/ESC/POS-F05032?style=flat-square&logo=epson&logoColor=white" />
 <img src="https://img.shields.io/badge/PDF-EC1C24?style=flat-square&logo=adobeacrobatreader&logoColor=white" />
 
-</div>
-
 ---
-
-<div align="center">
 
 #### TicketFlow - Queue & Appointment SaaS
 
@@ -157,8 +141,6 @@ Queue management, appointment booking, and event ticketing platform with drag-an
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
 <img src="https://img.shields.io/badge/NextAuth-000?style=flat-square&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white" />
-
-</div>
 
 ---
 
