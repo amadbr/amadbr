@@ -88,6 +88,14 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=amadbr&theme=tokyonight&hide_border=true&background=0D1117&ring=22c55e&fire=22c55e&currStreakLabel=22c55e" alt="GitHub Streak" />
 
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amadbr/amadbr/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amadbr/amadbr/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/amadbr/amadbr/output/github-snake.svg" />
+</picture>
+
 </div>
 
 ---
