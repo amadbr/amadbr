@@ -1,8 +1,13 @@
 <div align="center">
 
-# Amed Berzinar
-
-**Full Stack Developer**
+```javascript
+const developer = {
+  name: "Amed Berzinar",
+  role: "Full Stack Developer",
+  stack: ["Next.js", "React", "Flutter", "Node.js"],
+  passions: ["Clean Architecture", "Great UX", "Performance"]
+};
+```
 
 *Crafting clean, performant web & mobile apps*
 
