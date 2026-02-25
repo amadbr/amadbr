@@ -69,11 +69,11 @@
 
 ### GitHub Stats
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=amadbr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22c55e&icon_color=22c55e&text_color=c9d1d9" alt="GitHub Stats" width="100%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=amadbr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22c55e&icon_color=22c55e&text_color=c9d1d9" alt="GitHub Stats" width="495" />
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amadbr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22c55e&text_color=c9d1d9" alt="Top Languages" width="100%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amadbr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22c55e&text_color=c9d1d9" alt="Top Languages" width="495" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amadbr&theme=tokyonight&hide_border=true&background=0D1117&ring=22c55e&fire=22c55e&currStreakLabel=22c55e" alt="GitHub Streak" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amadbr&theme=tokyonight&hide_border=true&background=0D1117&ring=22c55e&fire=22c55e&currStreakLabel=22c55e" alt="GitHub Streak" width="495" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amadbr/amadbr/output/github-snake-dark.svg" />
