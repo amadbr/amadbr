@@ -103,7 +103,7 @@ const developer = {
 
 <a href="https://www.luxuryinmotiondubai.com"><img src="https://img.shields.io/badge/LIVE%20SITE-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live" /></a>
 
-A live production website I built for a luxury car rental company in Dubai. Got the client through a referral. Designed the UI/UX myself and built it from scratch.
+A live production website for a luxury car rental company in Dubai. Got the client through a referral. Took over the project, added major features, and did deep SEO work over 3-4 months.
 
 <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
 
